@@ -1,4 +1,4 @@
-###Startup
+## Startup
 
 Hola gente!
 Este es mi primer "write-up", espero qu elo disfruten.
